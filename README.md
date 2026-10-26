@@ -10,7 +10,6 @@
 - 🐧 **Systems:** Daily driving **CachyOS**, using **Kali Linux** for security labs.
 - 🔍 **Security:** Exploring network reconnaissance and port scanning with **Nmap**.
 - 💻 **Editor:** Writing code and scripts in **VSCodium**.
-- 🎯 **Goals:** Build a strong foundation in Python, automate Linux workflows, and develop practical tools.
 
 ---
 
