@@ -1,6 +1,6 @@
 <div align="center">
 
-
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:092d34,100:04a698&height=160&section=header&text=SendsW&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header Banner" />
 
   <p align="center">
@@ -53,3 +53,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub" />
 </p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:092d34,100:04a698&height=80&section=footer" width="100%" alt="Footer Banner" />
+</div>
