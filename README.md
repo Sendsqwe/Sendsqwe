@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there, I'm SendsW 👋
 
-<!--
-**Sendsqwe/Sendsqwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Aspiring developer learning Python, working on Linux, and exploring cybersecurity fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me
+
+- 🐍 **Language:** Actively learning and practicing **Python**.
+- 🐧 **Systems:** Daily driving **CachyOS**, using **Kali Linux** for security labs.
+- 🔍 **Security:** Exploring network reconnaissance and port scanning with **Nmap**.
+- 💻 **Editor:** Writing code and scripts in **VSCodium**.
+- 🎯 **Goals:** Build a strong foundation in Python, automate Linux workflows, and develop practical tools.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+**Operating Systems:**  
+<img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+
+**Network & Security:**  
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+
+**Editor & Version Control:**  
+<img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
