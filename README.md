@@ -24,34 +24,34 @@
 
 #### 💻 Programming & Modules
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="42" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   &nbsp;
-  <img src="https://img.shields.io/badge/hashlib-0A7E8C?style=for-the-badge&logo=python&logoColor=white" height="42" alt="hashlib" />
+  <img src="https://img.shields.io/badge/hashlib-0A7E8C?style=for-the-badge&logo=python&logoColor=white" alt="hashlib" />
 </p>
 
 #### 🐧 Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=cachyos&logoColor=white" height="42" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="42" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
 #### 🛡️ Security & Penetration Testing
 <p>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="42" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   &nbsp;
-  <img src="https://img.shields.io/badge/sqlmap-C7254E?style=for-the-badge&logo=sqlite&logoColor=white" height="42" alt="sqlmap" />
+  <img src="https://img.shields.io/badge/sqlmap-C7254E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlmap" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SET-Social--Engineer_Toolkit-D32F2F?style=for-the-badge&logo=kali-linux&logoColor=white" height="42" alt="Social-Engineer Toolkit" />
+  <img src="https://img.shields.io/badge/SET-Social--Engineer_Toolkit-D32F2F?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Social-Engineer Toolkit" />
 </p>
 
 #### 🧰 Tools & Version Control
 <p>
-  <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" height="42" alt="VSCodium" />
+  <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="42" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <br/>
