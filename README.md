@@ -13,7 +13,7 @@
 
 ### <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2304a698" width="20" height="20" align="center" /> About Me
 
-- <img src="https://api.iconify.design/lucide/code-2.svg?color=%2304a698" width="16" height="16" align="center" /> **Language & Core:** Actively coding in **Python**, exploring modules like **hashlib** for data integrity and cryptography basics.
+- <img src="https://api.iconify.design/lucide/code-2.svg?color=%2304a698" width="16" height="16" align="center" /> **Language & Core:** Actively coding in **Python**, exploring modules.
 - <img src="https://api.iconify.design/lucide/terminal.svg?color=%2304a698" width="16" height="16" align="center" /> **Operating Systems:** Daily driving **CachyOS**, using **Kali Linux** for security labs and practice.
 - <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2304a698" width="16" height="16" align="center" /> **Security Tools:** Experimenting with **Nmap**, **sqlmap**, **SpiderFoot**, and the **Social-Engineer Toolkit (SET)**.
 - <img src="https://api.iconify.design/lucide/laptop.svg?color=%2304a698" width="16" height="16" align="center" /> **Editor:** Writing scripts and tools in **VSCodium**.
