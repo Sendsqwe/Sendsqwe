@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
   &nbsp;
   <img src="https://img.shields.io/badge/hashlib-0A7E8C?style=for-the-badge&logo=python&logoColor=white" alt="hashlib" />
+  <img src="https://img.shields.io/badge/Requests-161B22?style=for-the-badge&logo=python&logoColor=2CA5E0" alt="Requests" />
 </p>
 
 #### <img src="https://api.iconify.design/lucide/terminal.svg?color=%2304a698" width="16" height="16" align="center" /> Operating Systems
